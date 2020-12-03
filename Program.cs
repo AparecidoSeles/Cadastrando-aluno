@@ -28,7 +28,6 @@ namespace Cadastrando_aluno02_12
             aluno.valorMensalidade = float.Parse(Console.ReadLine());
             
             Console.WriteLine("Digite se o aluno é bolsista: s/n");
-            aluno.nome = Console.ReadLine();
             string resposta = Console.ReadLine();
             if (resposta == "s")
             {
@@ -48,6 +47,25 @@ namespace Cadastrando_aluno02_12
                 Console.WriteLine("[0] - Sair");
                 opcao = int.Parse(Console.ReadLine());
 
+                switch (opcao)
+                {
+                    case 1:
+                         Console.WriteLine($"A média final do aluno {aluno.nome} = {aluno.VerMediaAluno()}");
+                    break;
+                        
+                    case 2:
+                        Console.WriteLine($"O valor da mensalidade do aluno fica em : {aluno.VerMensalidade()}");
+                    break;
+
+                    case 0:
+                        Console.WriteLine("Obrigado por acessar!");
+                    break;
+
+                    default:
+                        Console.WriteLine("Opção inválida");
+                    break;
+                }
+                
             } while (opcao != 0);
             
         }

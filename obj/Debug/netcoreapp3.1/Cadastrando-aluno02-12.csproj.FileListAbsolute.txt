@@ -11,3 +11,16 @@ C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno02-12\obj\Debug\ne
 C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.dll
 C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.pdb
 C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.genruntimeconfig.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\bin\Debug\netcoreapp3.1\Cadastrando-aluno02-12.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Cadastrando-aluno 02-12\obj\Debug\netcoreapp3.1\Cadastrando-aluno02-12.genruntimeconfig.cache
